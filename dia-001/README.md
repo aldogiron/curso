@@ -31,7 +31,7 @@ base, la aplicación que se va a ejecutar y todas las dependencias de esta
 aplicación.
 
 **Container Registry:** Es un repositorio desde el cual se pueden descargar
-imagenes que se pueden reutilizar en nuestras aplicaicones.
+imagenes que se pueden reutilizar en nuestras aplicaciones.
 
 **Docker Engine:** Es la plataforma que permite ejecutar y gestionar los
 contenedores de docker.
